@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geologica&size=30&pause=1500&color=F76FF8&center=true&vCenter=true&repeat=false&width=435&lines=Hi+everyone!+I'm+Dima!;And+this+is+my+little+digital+world.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geologica&size=36&pause=1500&color=F76FF8&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hi+everyone!+I'm+Dima!;And+this+is+my+little+digital+world.)](https://git.io/typing-svg)
